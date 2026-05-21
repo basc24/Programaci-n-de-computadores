@@ -30,6 +30,7 @@ Mientras que la variable tipo texto se utiliza para guardar información escrita
 
 Se le denomina algoritmo a un conjunto de pasos que se siguen o realizan para resolver un problema
 
+
 5.Porque es importante la identificación de pyton?
 
 La indentación en Python es importante porque define los bloques de código y afecta cómo se ejecuta el programa. Si está mal hecha, puede causar errores o cambiar el resultado. Además, mejora la lectura del código.
@@ -102,10 +103,10 @@ else:
 = Evalúa que el usuario cumpla con la mayoría de edad
 
 2 ¿Qué ocurre si el usuario digita 20?
-= Se muestra un mensaje con el texto "Eres mayor de edad"
+= Se muestra un mensaje con el texto "Es mayor de edad"
 
 3 ¿Qué ocurre si el usuario digita 15?
-= Se muestra un mensaje con el texto "Eres menor de edad"
+= Se muestra un mensaje con el texto "Es menor de edad"
 
 
 
