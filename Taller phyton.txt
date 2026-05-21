@@ -1,9 +1,11 @@
-﻿PARTE 1 
+﻿Parte 1 
+
 1.Que es python y para que se utiliza?
 
-Python es un lenguaje de programación de alto nivel. Fue creado por Guido van russem y lanzado por primer vez en 1991. Si diseño permite escribir códigos más simples y claros en comparación con otros lenguajes, por lo que es muy utilizado tanto ppr principiantes como por programadores profesionales 
+Python es un lenguaje de programación de alto nivel. Fue creado por Guido van Rossum y lanzado por primer vez en 1991. Si diseño permite escribir códigos más simples y claros en comparación con otros lenguajes, por lo que es muy utilizado tanto ppr principiantes como por programadores profesionales 
 
  Python se utiliza para desarrollar diferentes tipos de programas y aplicaciones como por ejemplo, sitios webs, aplicaciones moviles y de escritorio, programas de automatización y sistemas de inteligencia artificial. Python es un lenguaje de propósito general, lo que significa que se puede utilizar para crear una variedad de programas diferentes y no está especializado en ningún problema específico. Esta versatilidad, junto con su facilidad para los principiantes, lo ha convertido en uno de los lenguajes de programación más utilizados en la actualidad.
+
 
 2.Cuales son las ventajas de programar en python?
 
@@ -15,12 +17,14 @@ Python es un lenguaje de programación de alto nivel. Fue creado por Guido van r
 
 •Los desarrolladores pueden utilizar Python fácilmente con otros lenguajes de programación conocidos, como Java, C y C++.
 
+
 3.Que diferencia existe entre una variable numérica y una variable tipo texto?
 
 La diferencia entre una variable numérica y una variable tipo texto está en la información que almacenan y el tipo de operaciones que se pueden realizar con ellas 
 
 La variable tipo numérica se utilizan para guardar números y realizar operaciones matemáticas como las suma, resta, multiplicacion, etc..
-Mientras que la variable tipo texto se utiliza para guardar información escrita o caracteres
+Mientras que la variable tipo texto se utiliza para guardar información escrita o caracteres.
+
 
 4.Explique con sus palabras que es un algoritmo
 
@@ -31,11 +35,12 @@ Se le denomina algoritmo a un conjunto de pasos que se siguen o realizan para re
 La indentación en Python es importante porque define los bloques de código y afecta cómo se ejecuta el programa. Si está mal hecha, puede causar errores o cambiar el resultado. Además, mejora la lectura del código.
 
 
-2. ANALISIS DE CODIGO
+Parte 2. ANALISIS DE CODIGO
 
 1.¿Qué función cumple input()?
 La función input() se utiliza para pedirle información a el usuario, en este caso el nombre
-Cuando el programa llega a esa linea se detiene y espera que el usuario o persona escriba
+Cuando el programa llega a esa linea se detiene y espera que el usuario o persona escriba.
+
 
 2.Que función cumple print()?
 
@@ -49,6 +54,7 @@ Al colocar el código nos aparecerá al final
 
 Hola y el nombre que digitaste
 
+
 3.Que dato almacena la variable nombre?
 
 La variable nombre, almacena lo que el usuario escribe en la línea 
@@ -56,12 +62,13 @@ nombre = input("Escriba su nombre :")
 
 
 
-3. VARIABLES Y OPERADADORES
+Parte 3. VARIABLES Y OPERADADORES
 
 
 1 ¿Qué es una variable en programación?
 Una variable es un espacio o referencia con nombre que permite
-almacenar información. Su contenido puede cambiar durante la ejecución del programa
+almacenar información. Su contenido puede cambiar durante la ejecución del programa.
+
 
 2
 12 + 4   # 16
@@ -77,11 +84,12 @@ almacenar información. Su contenido puede cambiar durante la ejecución del pro
 
 / divide y el resultado casi siempre es decimal.
 
+
 3 ¿Qué sucede si se divide un número entre cero?
 Dividir cualquier cantidad entre cero no arroja ningún valor. El cálculo no genera una cifra real, sino que se trata de una acción matemática indefinida.
 
 
-4. CONDICIONALES 
+Parte 4. CONDICIONALES 
 
 edad = int(input("Digite su edad: "))
 if edad >= 18:
@@ -89,25 +97,30 @@ if edad >= 18:
 else:
 	print("Es menor de edad")
 
+
 1 ¿Qué evalúa la condición?
 = Evalúa que el usuario cumpla con la mayoría de edad
+
 2 ¿Qué ocurre si el usuario digita 20?
 = Se muestra un mensaje con el texto "Eres mayor de edad"
+
 3 ¿Qué ocurre si el usuario digita 15?
 = Se muestra un mensaje con el texto "Eres menor de edad"
 
 
 
-   5.CICLOS 
+Parte 5. CICLOS 
 
 1 ¿Para qué sirve un ciclo for?
 El ciclo for sirve y fue diseñado para iterar sobre estructuras coleccionables conocidas, como lo son:
 Listas, arreglos, cadenas, rangos numéricos, resultados de consultas, etc...
 
+
 2 ¿Para qué sirve un ciclo while?
 El ciclo while sirve para gestionar la repetición de procesos mediante la evaluación de un estado booleano.
 Su función esencial es sostener la ejecución de un segmento de código en un bucle activo. interrumpiéndose únicamente
 cuando la expresión lógica de control se vuelve falsa
+
 
 3 ¿Qué diferencia existe entre for y while?
 El ciclo for y while son estructuras de control de flujo iterativas. Ambos automatizan la ejecución constante
@@ -118,7 +131,7 @@ While Se usa cuando cuando el ciclo depende de una condición lógica. Se refier
 no depende de una lista si no de una condición
 
 
-6. EJERCICIOS PRACTICOS 
+Parte 6. EJERCICIOS PRACTICOS 
 
 1.Realiza un programa que solicité dos números y muestre 
 •Suma
@@ -139,6 +152,7 @@ print("Resta:", resta)
 print("Multiplicación:", multiplicacion)
 print("División:", division)  
 
+
 2.Cree un programa que solicité el nombre y la edad de una persona y muestre si es 
 •Niño
 •Adolecente
@@ -154,10 +168,12 @@ elif edad < 18:
 else:
     print(nombre, "es un Adulto")
 
+
 3.Realize un programa que muestre los número de el 1 al 20 usando for 
 
 for contador in range(1, 21):
     print("Número actual:", contador)
+
 
 4.Cree un programa que muestre la tabla de multiplicar de un número ingresado por el usuario 
  
@@ -165,23 +181,27 @@ for i in range(1, 11):
     print("7 x", i, "=", 7 * i)
 
 
-7.PREGUNTAS DE REFLEXION 
+Parte 7. PREGUNTAS DE REFLEXION 
 
 1.¿Por qué es importante aprender programación?
 
  Porque te enseña a resolver paso a paso cualquier problema. Además, te permite automatizar tareas repetitivas y te abre muchas oportunidades de trabajo.
 
+
 2.¿En qué áreas se usa Python hoy?
  
 En casi todo: análisis de datos, páginas web, automatización de tareas, inteligencia artificial, ciberseguridad, ciencia, videojuegos y educación.
+
 
 3.¿Cómo ayuda la programación con problemas reales?
   
 Permite analizar grandes cantidades de información rápido, evitar errores manuales y hacer tareas automáticas (por ejemplo, detectar fraudes, organizar rutas de reparto o ayudar en diagnósticos médicos).
 
-8.EJERCICIO DE LOGICA 
+
+Parte 8. EJERCICIO DE LOGICA 
 Problema:
-Un estudiante necesita calcular el problema de 3 notas 
+Un estudiante necesita calcular el problema de 3 notas.
+
 Condiciones:
 • Si el promedio es igual o mayor a 3.0 - "Aprobó"
 • Si el promedio es menor a 3.0 - "Reprobó"
