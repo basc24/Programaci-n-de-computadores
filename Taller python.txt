@@ -2,7 +2,7 @@
 
 1.Que es python y para que se utiliza?
 
-Python es un lenguaje de programación de alto nivel. Fue creado por Guido van Rossum y lanzado por primer vez en 1991. Si diseño permite escribir códigos más simples y claros en comparación con otros lenguajes, por lo que es muy utilizado tanto ppr principiantes como por programadores profesionales 
+Python es un lenguaje de programación de alto nivel. Fue creado por Guido van Rossum y lanzado por primera vez en 1991. Si diseño permite escribir códigos más simples y claros en comparación con otros lenguajes, por lo que es muy utilizado tanto por principiantes como por programadores profesionales 
 
  Python se utiliza para desarrollar diferentes tipos de programas y aplicaciones como por ejemplo, sitios webs, aplicaciones moviles y de escritorio, programas de automatización y sistemas de inteligencia artificial. Python es un lenguaje de propósito general, lo que significa que se puede utilizar para crear una variedad de programas diferentes y no está especializado en ningún problema específico. Esta versatilidad, junto con su facilidad para los principiantes, lo ha convertido en uno de los lenguajes de programación más utilizados en la actualidad.
 
